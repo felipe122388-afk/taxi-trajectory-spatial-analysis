@@ -1,1 +1,2 @@
-*.py linguist-vendored=true
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
