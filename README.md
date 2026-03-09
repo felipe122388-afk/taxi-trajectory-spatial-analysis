@@ -4,6 +4,7 @@
 
 ## 📌 Project Overview
 This project tackles the challenge of optimizing database queries for massive spatial-temporal datasets. Using a high-dimensional dataset of over 1.7 million taxi trajectories, this repository demonstrates advanced spatial data manipulation, custom PostGIS geometry creation, and rigorous database performance tuning. The raw data was preprocessed in Python to ensure entity integrity before being converted into PostGIS geometries for advanced spatial analysis.
+
 📄 **Read the full Technical Report:** [Strategic Indexing Techniques for Taxi Trajectory](./Strategic%20Indexing%20Techniques%20for%20Taxi%20Trajectory.pdf)
 
 ## 🏗️ Architecture & Query Optimization
